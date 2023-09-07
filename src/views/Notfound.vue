@@ -12,7 +12,7 @@
 				<polyline points="179,1 179,59 1,59 1,1 179,1" class="bg-line" />
 				<polyline points="179,1 179,59 1,59 1,1 179,1" class="hl-line" />
 				</svg>
-				<a href="#">returnTo Home</a>
+				<a>Return To Home</a>
 			</button>
 			</div>
 		</div>
@@ -78,7 +78,7 @@ export default {
   height: 60px;
   cursor: pointer;
   background: transparent;
-  border: 1px solid #91C9FF;
+  border: 1px solid #dfd9e2;
   outline: none;
   transition: 1s ease-in-out;
 }
@@ -96,7 +96,7 @@ svg {
 
 .btn:hover {
   transition: 1s ease-in-out;
-  background: #4F95DA;
+  background: #454345;
 }
 
 .btn:hover svg {
